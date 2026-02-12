@@ -1,5 +1,5 @@
 /* sw.js — offline cache for BT/Relâche PWA */
-const CACHE_NAME = "bt-relache-v1";
+const CACHE_NAME = "bt-relache-v2";
 const ASSETS = [
   "./",
   "./index.html",
